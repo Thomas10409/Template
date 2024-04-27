@@ -7,8 +7,8 @@
 > #### Template for my repositories.
 
 > ### 狀態 Status
-> #### 這是一個摸版,請不要修改它。
-> #### This is a Template. Don't edit it.
+> #### ${\textsf{\color{darkred}這是一個摸版,請不要修改它。}}$
+> #### ${\textsf{\color{darkred}This is a Template. Don't edit it.}}$
 
 #
 
