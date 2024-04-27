@@ -17,4 +17,4 @@ Info in there
 
 #
 
-###### 由Thomas10409開發團隊開發
+###### 由Thomas10409自行開發
