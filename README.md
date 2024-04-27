@@ -18,3 +18,22 @@ Info in there
 #
 
 ###### 由Thomas10409自行開發
+
+Something Special
+
+> [!NOTE]
+> NOTE Text
+
+> [!TIP]
+> TIP Text
+
+> [!IMPORTANT]
+> IMPORTANT Text
+
+> [!WARNING]
+> WARNING Text
+
+> [!CAUTION]
+> CAUTION Text
+
+#### ${\textsf{\color{red}c}}$ ${\textsf{\color{orange}o}}$ ${\textsf{\color{yellow}l}}$ ${\textsf{\color{lightgreen}o}}$ ${\textsf{\color{lightblue}r}}$ **Text**
